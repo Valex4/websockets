@@ -1,6 +1,5 @@
 import express from 'express'
 import logger from 'morgan'
-import cors from 'cors'
 import { Server } from 'socket.io'
 import { createServer } from 'node:http'
 
